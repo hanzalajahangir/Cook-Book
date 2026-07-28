@@ -153,6 +153,7 @@ button:hover{
 }
 
 #back-btn{
+    margin-top: 1rem;
     margin-bottom: 1.5rem;
     background-color: transparent;
     color: var(--primary);
