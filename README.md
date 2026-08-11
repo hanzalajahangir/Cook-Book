@@ -1,4 +1,4 @@
-# 🍽️ Recipe Book
+# 🍽️ Cook Book
 
 A lightweight, client-side recipe search app built with vanilla HTML, CSS, and JavaScript. It uses [TheMealDB API](https://www.themealdb.com/api.php) to search for recipes by name and view full recipe details, including ingredients, instructions, and a linked video tutorial.
 
